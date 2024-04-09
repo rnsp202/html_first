@@ -104,3 +104,11 @@
 ### span
 * 인라인이 2개 이상 형제일 경우 묶는 그룹태그
 * 의미없는 디자인 요소 인라인 처리 필요 시 사용
+## html5 semantic tag 
+### sematic tag란?
+* div에 id나 class를 붙여 작성하던 방식을 형식에 따라 따로 코드를 만들어 사용할 수 있게 만든 방식
+### header
+* 
+### nav
+* 
+### gnb, lnb, snb
